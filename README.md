@@ -1,7 +1,7 @@
 #  Python Calculator Project
 
 ##  Project Description
-This is my first Python programming project — a simple command-line calculator.
+This is my first Python programming project a simple command-line calculator.
 
 The calculator supports multiple mathematical operations and is built to practice Python fundamentals.
 
